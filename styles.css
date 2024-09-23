@@ -13,5 +13,6 @@ body{
 .square{
 	margin:0;
 	  padding-bottom: 100%;
-           transition:.5
+           transition:.5;
+	background-color:rgb(29, 29, 29);
 }
